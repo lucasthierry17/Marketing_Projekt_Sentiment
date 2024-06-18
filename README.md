@@ -1,7 +1,11 @@
 # Marketing_Projekt_Sentiment
-**This is the repository for storing the code used for our sentiment analysis and visualisations**
+**This is the repository for storing the code used for our sentiment analysis and visualisations as well as to describe our goals and methods**
 
 ## Vorgehen:
+
+**Unsere Ziele**
+Unsere Hypothesen anhand der Daten belegen / wiederlegen können. Außerdem möchten wir Erkenntnisse aus dem Datensatz schließen und möglicherweise Zusammenhänge erkennen.
+Des Weiteren ist es wichtig, die Daten einzuordnen. Wie relevant sind die Daten? Was sind mögliche Schwächen des Datensatzes? Wie könnte man die Relevanz erhöhen?
 
 **Unser Datensatz**  
 Unser Datensatz (hier zu finden: [Kaggle Dataset](https://www.kaggle.com/datasets/datasnaek/youtube?select=USvideos.csv)) besteht aus rund 1,4 Millionen YouTube-Kommentaren inklusive der Metadaten (Kategorie, Channel). Der Datensatz besteht aus den US-Kommentaren und den GB-Kommentaren. Es gibt 30 unterschiedliche Kategorien, in denen die Videos eingeteilt sind. Die Kommentare stammen von +3000 unterschiedlichen Videos und rund 1700 Kanälen.
@@ -69,3 +73,23 @@ Der nächste Schritt erfolgt die Sentiment-Berechnung mithilfe des vortrainierte
 **Code für die Sentiment-Analyse**  
 Der Code für die Sentiment-Analyse findet sich unter:  
 [Link zum Sentiment-Berechnungscode]
+
+## Was haben wir gelernt?
+Aufgrund der Größe und Komplextität des Datensatzes mussten wir die Daten sorgfältig vorbereiten und bereinigen. Außerdem sind die Daten von der Quelle aufgeteilt in 
+verschiedene Datensätze, dadurch mussten wir uns unseren Datensatz erst aus den gegebenen Daten mergen. 
+Neben der Datenaufbereitung haben wir auch das Vorgehen und die Funktionsweise einer Sentiment-Analyse gelernt. Wir haben verschiedene Modelle ausprobiert und dabei aufgrund der Datengröße auch auf die Effizienz der Modelle schauen. 
+Zuletzt haben wir uns im Umgang mit Git, Github und Python weiter verbessert. Diese Tools haben wir im Zuge unseres Projektes benutzt.
+
+## Welche Risiken / Schwachstellen sehen wir?
+Obwohl der Datensatz Kommentare aus vielfältigen Videos und Kategorien enthält, ist er nicht optimal diversifiziert. Das birgt das Risiko, sich anhand des Datensatzes zu 
+falschen Schlussfolgerungen leiten zu lassen. 
+Eine weitere Schwachstelle ist der Zeitraum der aufgenommenen Daten. Knapp vier Wochen von Kommentaren liegen uns im Datensatz vor. Um die Aussagekraft zu verbessern, könnte man den Zeitraum der Daten ausweiten und ggf. auch weitere Länder mit einbeziehen. 
+
+
+
+
+
+
+
+
+
