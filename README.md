@@ -75,7 +75,7 @@ Im nächsten Schritt erfolgt die Sentiment-Berechnung mithilfe des vortrainierte
 Der Code für die Sentiment-Analyse befindet sich unter:  
 (https://github.com/lucasthierry17/Marketing_Projekt_Sentiment/blob/main/sentiment_analysis_youtube_comments.ipynb)
 
-**ALternativen zum VADER Algorithmus**
+**Alternativen zum VADER Algorithmus**
 Es gibt verschiedene Algorithmen und Ansätze, um einen Sentiment-Wert aus den Kommentaren zu berechnen. 
 
 Eine Alternative zum VADER-Modell ist TextBlob, eine einfache Python-Bibliothek, die Sentimentanalyse durch Verarbeitung von Textdaten ermöglicht. 
