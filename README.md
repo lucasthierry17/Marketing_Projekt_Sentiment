@@ -69,7 +69,7 @@ Die Ausgabe der Funktion sind vier Werte:
 - **Compound-Wert:** Ein normalisierter Wert zwischen -1 (sehr negativ) und 1 (extrem positiv).
 
 **Berechnung mit vortrainiertem Modell**  
-Der nächste Schritt erfolgt die Sentiment-Berechnung mithilfe des vortrainierten Modells basierend auf Wörtern und Phrasen.
+Im nächsten Schritt erfolgt die Sentiment-Berechnung mithilfe des vortrainierten Modells basierend auf Wörtern und Phrasen.
 
 **Code für die Sentiment-Analyse**  
 Der Code für die Sentiment-Analyse findet sich unter:  
