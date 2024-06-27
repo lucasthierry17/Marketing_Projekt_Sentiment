@@ -72,7 +72,7 @@ Die Ausgabe der Funktion sind vier Werte:
 Im nächsten Schritt erfolgt die Sentiment-Berechnung mithilfe des vortrainierten Modells basierend auf Wörtern und Phrasen.
 
 **Code für die Sentiment-Analyse**  
-Der Code für die Sentiment-Analyse findet sich unter:  
+Der Code für die Sentiment-Analyse befindet sich unter:  
 (https://github.com/lucasthierry17/Marketing_Projekt_Sentiment/blob/main/sentiment_analysis_youtube_comments.ipynb)
 
 **ALternativen zum VADER Algorithmus**
