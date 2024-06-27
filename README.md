@@ -84,6 +84,12 @@ Sie verwendet einen wörterbuchbasierten Ansatz, um den Text zu analysieren.
 Eine weitere Alternative ist BERT (Bidirectional Encoder Representations from Transformers), ein fortschrittliches NLP-Modell, das Kontextinformationen
 in beide Richtungen berücksichtigt, um präzisere Sentimentanalysen zu ermöglichen.
 
+**Auswertungen der Hypothesen**
+
+Der Code mit den Ergebnissen der Hypothesen befindet sich hier:
+https://github.com/lucasthierry17/Marketing_Projekt_Sentiment/blob/main/final_hypotheses_check.ipynb
+
+
 ## Was haben wir gelernt?
 Aufgrund der Größe und Komplextität des Datensatzes mussten wir die Daten sorgfältig vorbereiten und bereinigen. Außerdem sind die Daten von der Quelle aufgeteilt in 
 verschiedene Datensätze, dadurch mussten wir uns unseren Datensatz erst aus den gegebenen Daten mergen. 
