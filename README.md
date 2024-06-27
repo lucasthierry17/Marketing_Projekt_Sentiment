@@ -4,6 +4,7 @@
 ## Vorgehen:
 
 **Unsere Ziele**
+
 Unsere Hypothesen anhand der Daten belegen / wiederlegen können. Außerdem möchten wir Erkenntnisse aus dem Datensatz schließen und möglicherweise Zusammenhänge erkennen.
 Des Weiteren ist es wichtig, die Daten einzuordnen. Wie relevant sind die Daten? Was sind mögliche Schwächen des Datensatzes? Wie könnte man die Relevanz erhöhen?
 
@@ -52,7 +53,7 @@ Der VADER Algorithmus steht für Valence Aware Dictionary and Sentiment Reasoner
 VADER verwendet eine Reihe von Regeln, um die Kontextinformationen zu berücksichtigen. Beispiele:
 - **Verstärkung:** Wörter wie "sehr" oder "extrem" verstärken die Sentimentwerte der nachfolgenden Wörter.
 - **Negation:** Wörter wie "nicht" oder "kein" können die Sentiment-Polarität eines Satzes umkehren.
-- **Intensitätssteigerung:** Großbuchstaben und Satzzeichen (bspw. Ausrufezeichen) können die Intensität von Sentiment verstärken.
+- **Intensitätssteigerung:** Großbuchstaben und Satzzeichen (bspw. Ausrufezeichen) können die Intensität vom Sentiment verstärken.
 
 **Berechnung des Sentimentwertes**  
 Um den Sentimentwert eines Kommentares zu ermitteln:
