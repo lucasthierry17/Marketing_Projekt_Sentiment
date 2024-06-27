@@ -5,7 +5,7 @@
 
 **Unsere Ziele**
 
-Unsere Hypothesen anhand der Daten belegen / wiederlegen können. Außerdem möchten wir Erkenntnisse aus dem Datensatz schließen und möglicherweise Zusammenhänge erkennen.
+Unsere Hypothesen anhand der Daten belegen / widerlegen können. Außerdem möchten wir Erkenntnisse aus dem Datensatz schließen und möglicherweise Zusammenhänge erkennen.
 Des Weiteren ist es wichtig, die Daten einzuordnen. Wie relevant sind die Daten? Was sind mögliche Schwächen des Datensatzes? Wie könnte man die Relevanz erhöhen?
 
 **Unser Datensatz**  
