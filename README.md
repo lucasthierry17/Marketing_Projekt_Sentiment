@@ -12,7 +12,7 @@ Unser Datensatz (hier zu finden: [Kaggle Dataset](https://www.kaggle.com/dataset
 
 **Datensichtung**  
 Wir haben uns den Datensatz heruntergeladen und zuerst die Daten gesichtet. Die Erkenntnisse sind in der Präsentation von Folie 4 bis 7 zu finden und hier:  
-[Link zum Dataexplorationcode]
+https://github.com/lucasthierry17/Marketing_Projekt_Sentiment/blob/main/data_exploration.ipynb
 
 **Hypothesenbildung**  
 Anhand des Datensatzes haben wir uns Hypothesen überlegt, die wir im späteren Verlauf überprüfen.  
@@ -21,7 +21,7 @@ Siehe Präsentation für die Hypothesen.
 **Datenvorbereitung**  
 Als nächsten Schritt haben wir die Kommentare vorbereitet, um die Sentiment-Analyse durchzuführen. Beispielsweise wurden Emojis entfernt.  
 Der Code für diesen Schritt ist hier auffindbar:  
-[Link zum Code]
+https://github.com/lucasthierry17/Marketing_Projekt_Sentiment/blob/main/data_exploration.ipynb
 
 **Sentiment-Analyse**  
 Nun folgt die eigentliche Sentiment-Analyse. Wir haben uns für die Bibliothek NLTK entschieden. Als Ergebnis der Sentiment-Analyse erhält jeder Kommentar einen Wert zwischen -1 und 1. Je größer der Wert, desto positiver ist das Sentiment. 
@@ -72,7 +72,16 @@ Der nächste Schritt erfolgt die Sentiment-Berechnung mithilfe des vortrainierte
 
 **Code für die Sentiment-Analyse**  
 Der Code für die Sentiment-Analyse findet sich unter:  
-[Link zum Sentiment-Berechnungscode]
+(https://github.com/lucasthierry17/Marketing_Projekt_Sentiment/blob/main/sentiment_analysis_youtube_comments.ipynb)
+
+**ALternativen zum VADER Algorithmus**
+Es gibt verschiedene Algorithmen und Ansätze, um einen Sentiment-Wert aus den Kommentaren zu berechnen. 
+
+Eine Alternative zum VADER-Modell ist TextBlob, eine einfache Python-Bibliothek, die Sentimentanalyse durch Verarbeitung von Textdaten ermöglicht. 
+Sie verwendet einen wörterbuchbasierten Ansatz, um den Text zu analysieren. 
+
+Eine weitere Alternative ist BERT (Bidirectional Encoder Representations from Transformers), ein fortschrittliches NLP-Modell, das Kontextinformationen
+in beide Richtungen berücksichtigt, um präzisere Sentimentanalysen zu ermöglichen.
 
 ## Was haben wir gelernt?
 Aufgrund der Größe und Komplextität des Datensatzes mussten wir die Daten sorgfältig vorbereiten und bereinigen. Außerdem sind die Daten von der Quelle aufgeteilt in 
